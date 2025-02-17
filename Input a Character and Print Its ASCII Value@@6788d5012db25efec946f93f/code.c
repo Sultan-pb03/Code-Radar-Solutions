@@ -2,5 +2,5 @@
 int main(){
     char x;
     scanf("%c",&x);
-    printf("ASCII Value: %d",int(x));
+    printf("ASCII Value: %d",x);
 }
