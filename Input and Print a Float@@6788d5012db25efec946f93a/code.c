@@ -3,5 +3,5 @@
 int main(){
     float x;
     scanf("%d",&x);
-    printf(" ",x)
+    printf(" ",x);
 }
